@@ -19,7 +19,7 @@ Tasks:
      -purrr: Functional programming library in R, promoting concise and efficient ways to work with data structures and functions.\
      -randomForest: Implementation of the random forest algorithm.\
      -missForest: Imputes missing data using random forests.\
-     -ranger: Another random forest implementation known for its speed and scalability for large datasets.\
+     -ranger: Another random forest implementation known for its speed and scalability for large datasets.
 2. Clone the repository:
    ```bash
    git clone [https://github.com/Abhiruchi37/Bike-Rental_Prediction.git]
