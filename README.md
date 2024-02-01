@@ -7,7 +7,7 @@ Tasks:
 1. Exploratory data analysis
 2. Attributes distribution and trends
 3. Splitting the dataset into train and test dataset
-4. Creatimg a model using the random forest algorithm
+4. Creating a model using the random forest algorithm
 5. Predicting the performance of the model on the test dataset
 
 ## Setup
